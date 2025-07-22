@@ -41,7 +41,7 @@
 1. **리포지토리 클론:**
 
    ```bash
-   git clone [https://github.com/당신의깃허브아이디/Your_JSON_Repo_Name.git](https://github.com/당신의깃허브아이디/Your_JSON_Repo_Name.git)
+   git clone [https://github.com/your github id/Your_JSON_Repo_Name.git](https://github.com/your github id/Your_JSON_Repo_Name.git)
    cd Your_JSON_Repo_Name
    ```
 
